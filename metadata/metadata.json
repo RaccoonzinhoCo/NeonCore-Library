@@ -1,0 +1,92 @@
+[
+  {
+    "name": "wikipedia_10k.db",
+    "size": 37834752,
+    "type": "library",
+    "category": "free",
+    "version": "1.0.0",
+    "sha256": "06b84d83230999cfc123f692379c7c94d82f057338f5ebc01be56f13e60164f7",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/free/wikipedia_10k.db"
+  },
+  {
+    "name": "wiktionary_mini.db",
+    "size": 15142912,
+    "type": "library",
+    "category": "free",
+    "version": "1.0.0",
+    "sha256": "4ce2febb81a4e339b978fd1da18dd159835fe5207687d0bca341c6814c30cbd0",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/free/wiktionary_mini.db"
+  },
+  {
+    "name": "ck12_essentials_lite.db",
+    "size": 25227264,
+    "type": "library",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "2d20243e84bf3cb2e538a75b417944389dd2403c45a1b248bb4083c80593b815",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/premium/ck12_essentials_lite.db"
+  },
+  {
+    "name": "basic_language_pack_en.db",
+    "size": 18919424,
+    "type": "library",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "57f080078c9a0c7e8a2c859404a899d5e32b5714f53fb7d5c33f88fd75e65650",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/premium/basic_language_pack_en.db"
+  },
+  {
+    "name": "tiny_math_tools.db",
+    "size": 10108928,
+    "type": "library",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "e2c4464d8783c68541af05f7033422195f5d9ca958442e9041e4d7010f6e721b",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/premium/tiny_math_tools.db"
+  },
+  {
+    "name": "mini_biology_pack.db",
+    "size": 15142912,
+    "type": "library",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "4ce2febb81a4e339b978fd1da18dd159835fe5207687d0bca341c6814c30cbd0",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/premium/mini_biology_pack.db"
+  },
+  {
+    "name": "mini_geography_pack.db",
+    "size": 15142912,
+    "type": "library",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "4ce2febb81a4e339b978fd1da18dd159835fe5207687d0bca341c6814c30cbd0",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/raw/main/libraries/premium/mini_geography_pack.db"
+  },
+  {
+    "name": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+    "size": 807694464,
+    "type": "model",
+    "category": "free",
+    "version": "1.0.0",
+    "sha256": "6f85a640a97cf2bf5b8e764087b1e83da0fdb51d7c9fab7d0fece9385611df83",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/releases/download/v1.0.0/Llama-3.2-1B-Instruct-Q4_K_M.gguf"
+  },
+  {
+    "name": "gemma-2-2b-it-Q4_K_M.gguf",
+    "size": 1708582752,
+    "type": "model",
+    "category": "free",
+    "version": "1.0.0",
+    "sha256": "e0aee85060f168f0f2d8473d7ea41ce2f3230c1bc1374847505ea599288a7787",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/releases/download/v1.0.0/gemma-2-2b-it-Q4_K_M.gguf"
+  },
+  {
+    "name": "qwen2.5-coder-3b-instruct-q4_k_m.gguf",
+    "size": 2104932800,
+    "type": "model",
+    "category": "premium",
+    "version": "1.0.0",
+    "sha256": "724fb256bec1ff062b2f65e4569e871ad2e95ab2a3989723d1769c54294730b7",
+    "download_url": "https://github.com/RaccoonzinhoCo/NeonCore-Library/releases/download/v1.0.0/qwen2.5-coder-3b-instruct-q4_k_m.gguf"
+  }
+]
